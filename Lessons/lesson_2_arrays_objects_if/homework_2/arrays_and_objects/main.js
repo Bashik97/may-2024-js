@@ -290,7 +290,14 @@ if (a > b) {
 
 // value assignment default //
 
-
+let x;
+x = 0; // підставляємо falsy значення (0, null, '', undefined, NaN)
+if (!x) {
+    x = 'default';
+    console.log(x);
+} else {
+    console.log('Result not found')
+}
 
 
 // array coursesAndDurationArray //
