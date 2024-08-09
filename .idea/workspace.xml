@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8200d00d-f31a-47f2-87ec-f9de016395cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/lesson_1_var_operations/homework_1/concatenation/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/lesson_1_var_operations/homework_1/concatenation/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/lesson_1_var_operations/homework_1/prompt/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/lesson_1_var_operations/homework_1/prompt/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/lesson_1_var_operations/homework_1/typeOf/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/lesson_1_var_operations/homework_1/typeOf/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/lesson_1_var_operations/homework_1/variables/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/lesson_1_var_operations/homework_1/variables/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/may-2024-js.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/lesson_2_arrays_objects_if/homework_2/arrays_and_objects/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/lesson_2_arrays_objects_if/homework_2/arrays_and_objects/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,22 +48,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Dmytro/may-2024-js/Lessons/lesson_1_var_operations/homework_1/prompt&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Node.js.main.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Dmytro/may-2024-js/Lessons/lesson_1_var_operations/homework_1/prompt",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Dmytro\may-2024-js\Lessons\lesson_1_var_operations\homework_1\prompt" />
@@ -81,8 +73,14 @@
       <recent name="D:\Dmytro\may-2024-js\Lessons\lesson_1_var_operations\homework_1\concatenation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dmytro\Okten Web\may-2024-js\Lessons\lesson_2_arrays_objects_if\homework_2\arrays_and_objects" />
       <recent name="D:\Dmytro\may-2024-js\Lessons\lesson_1_var_operations\homework_1\variables" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="main.js" working-dir="$PROJECT_DIR$/Lessons/lesson_2_arrays_objects_if/homework_2/arrays_and_objects">
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -103,6 +101,14 @@
       <workItem from="1722883048091" duration="414000" />
       <workItem from="1722883528129" duration="6887000" />
       <workItem from="1722890835054" duration="503000" />
+      <workItem from="1722935556112" duration="3000" />
+      <workItem from="1722935576495" duration="820000" />
+      <workItem from="1722937175937" duration="57000" />
+      <workItem from="1722937241313" duration="12000" />
+      <workItem from="1722937299222" duration="96000" />
+      <workItem from="1722937456947" duration="1365000" />
+      <workItem from="1723025287716" duration="785000" />
+      <workItem from="1723046795492" duration="42054000" />
     </task>
     <servers />
   </component>
