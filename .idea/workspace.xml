@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8200d00d-f31a-47f2-87ec-f9de016395cc" name="Changes" comment="change">
+      <change afterPath="$PROJECT_DIR$/Lessons/lesson_3_increments_for_while/homework_3/arrays_and_objects/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/lesson_3_increments_for_while/homework_3/arrays_and_objects/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/lesson_2_arrays_objects_if/homework_2/arrays_and_objects/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/lesson_2_arrays_objects_if/homework_2/arrays_and_objects/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/lesson_2_arrays_objects_if/homework_2/arrays_and_objects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/lesson_2_arrays_objects_if/homework_2/arrays_and_objects/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +20,7 @@
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -33,7 +36,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Bashik97/may-2024-js.git&quot;,
-    &quot;accountId&quot;: &quot;3ac3aaaa-b085-4fb9-a768-a5ac208a3da8&quot;
+    &quot;accountId&quot;: &quot;afa4ddd1-29d8-4a68-9b0d-d7ac124ff689&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -47,26 +50,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Node.js.main.js.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Dmytro/may-2024-js/Lessons/lesson_1_var_operations/homework_1/prompt&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Node.js.main.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/DC-02/IdeaProjects/Lessons/lesson_3_increments_for_while",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DC-02\IdeaProjects\Lessons\lesson_3_increments_for_while" />
       <recent name="D:\Dmytro\may-2024-js\Lessons\lesson_1_var_operations\homework_1\prompt" />
       <recent name="D:\Dmytro\may-2024-js\Lessons\lesson_1_var_operations\homework_1\typeOf" />
       <recent name="D:\Dmytro\may-2024-js\Lessons\lesson_1_var_operations\homework_1\concatenation" />
@@ -109,6 +114,8 @@
       <workItem from="1723025287716" duration="785000" />
       <workItem from="1723046795492" duration="42054000" />
       <workItem from="1723215057871" duration="755000" />
+      <workItem from="1723274035305" duration="759000" />
+      <workItem from="1723295089247" duration="15413000" />
     </task>
     <servers />
   </component>
