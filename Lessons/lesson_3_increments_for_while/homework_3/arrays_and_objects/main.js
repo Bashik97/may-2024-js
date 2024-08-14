@@ -42,13 +42,11 @@ let listOfItems = [
     'node.js'
 ];
 
+document.write('<ul>');
 for (let j = 0; j < listOfItems.length; j++) {
-    let listOfItem = listOfItems[j];
-    document.write(`
-        <ul>
-            <li>${listOfItem}</li>
-        </ul>`);
+    document.write('<li>' + listOfItems[j] + '</li>');
 }
+document.write('</ul>');
 
 document.write('-------------------------------------------------') // Separate tasks
 
@@ -80,11 +78,12 @@ for (let b = 0; b < products.length; b++) {
     const product = products[b];
     document.write(`<div class="product-card">
                         <h3 class="product-title">
-                        ${product.title}. Price - ${product.price}
+                            ${product.title}. Price - ${product.price}
                         </h3>
                         <img src="${product.image}" alt="" class="product-image">
                     </div>`);
 }
+document.write(product);
 
 document.write('-------------------------------------------------') // Separate tasks
 
@@ -123,8 +122,3 @@ while (i3 < users.length) {
         console.log(arrTrue);
         console.log(arrFalse);
         console.log(arrAge);
-
-
-// користувачів зі статусом true
-// користувачів зі статусом false
-// користувачів які старші за 30 років
