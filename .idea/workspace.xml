@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8200d00d-f31a-47f2-87ec-f9de016395cc" name="Changes" comment="change">
-      <change afterPath="$PROJECT_DIR$/Lessons/lesson_3_increments_for_while/homework_3/arrays_and_objects/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/lesson_3_increments_for_while/homework_3/arrays_and_objects/main.js" afterDir="false" />
+    <list default="true" id="8200d00d-f31a-47f2-87ec-f9de016395cc" name="Changes" comment="homework5">
+      <change afterPath="$PROJECT_DIR$/Lessons/lesson_6_function_part3/homework_6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/lesson_6_function_part3/homework_6/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/lesson_2_arrays_objects_if/homework_2/arrays_and_objects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/lesson_2_arrays_objects_if/homework_2/arrays_and_objects/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,12 +52,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
     "Node.js.main.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
+    "js.last.introduce.type": "CONST",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/DC-02/IdeaProjects/Lessons/lesson_3_increments_for_while",
+    "last_opened_file_path": "C:/Users/DC-02/may-2024-js/Lessons",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -71,20 +72,34 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DC-02\may-2024-js\Lessons" />
       <recent name="C:\Users\DC-02\IdeaProjects\Lessons\lesson_3_increments_for_while" />
       <recent name="D:\Dmytro\may-2024-js\Lessons\lesson_1_var_operations\homework_1\prompt" />
       <recent name="D:\Dmytro\may-2024-js\Lessons\lesson_1_var_operations\homework_1\typeOf" />
       <recent name="D:\Dmytro\may-2024-js\Lessons\lesson_1_var_operations\homework_1\concatenation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DC-02\may-2024-js\Lessons\lesson_4_function_part1\homework_4" />
       <recent name="D:\Dmytro\Okten Web\may-2024-js\Lessons\lesson_2_arrays_objects_if\homework_2\arrays_and_objects" />
       <recent name="D:\Dmytro\may-2024-js\Lessons\lesson_1_var_operations\homework_1\variables" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.main.js (1)">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/may-2024-js/Lessons/lesson_4_function_part1/homework_4/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="main.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lessons/lesson_6_function_part3/homework_6/main.js" working-dir="$PROJECT_DIR$/Lessons/lesson_6_function_part3/homework_6">
+      <method v="2" />
+    </configuration>
     <configuration name="main.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="main.js" working-dir="$PROJECT_DIR$/Lessons/lesson_2_arrays_objects_if/homework_2/arrays_and_objects">
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.main.js (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -116,14 +131,44 @@
       <workItem from="1723215057871" duration="755000" />
       <workItem from="1723274035305" duration="759000" />
       <workItem from="1723295089247" duration="15413000" />
+      <workItem from="1723465979852" duration="54265000" />
     </task>
+    <task id="LOCAL-00001" summary="change">
+      <option name="closed" value="true" />
+      <created>1723620151234</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723620151234</updated>
+    </task>
+    <task id="LOCAL-00002" summary="homework5">
+      <option name="closed" value="true" />
+      <created>1723721415543</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723721415543</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change" />
-    <option name="LAST_COMMIT_MESSAGE" value="change" />
+    <MESSAGE value="homework5" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework5" />
   </component>
 </project>
