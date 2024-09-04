@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8200d00d-f31a-47f2-87ec-f9de016395cc" name="Changes" comment="homework6">
-      <change afterPath="$PROJECT_DIR$/Lessons/lesson_7_function_part4/homework_7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/lesson_7_function_part4/homework_7/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/lesson_8_spred_prototyping_descriptors/homework_8/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/lesson_8_spred_prototyping_descriptors/homework_8/main.js" afterDir="false" />
+    <list default="true" id="8200d00d-f31a-47f2-87ec-f9de016395cc" name="Changes" comment="homework6-7">
+      <change afterPath="$PROJECT_DIR$/Lessons/lesson_10_events/homework_10/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/lesson_10_events/homework_10/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/lesson_9-DOM/homework_9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/lesson_9-DOM/homework_9/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/lesson_1_var_operations/homework_1/concatenation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/lesson_1_var_operations/homework_1/concatenation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/lesson_7_function_part4/homework_7/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/lesson_7_function_part4/homework_7/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/lesson_8_spred_prototyping_descriptors/homework_8/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/lesson_8_spred_prototyping_descriptors/homework_8/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -86,11 +89,14 @@
       <recent name="D:\Dmytro\may-2024-js\Lessons\lesson_1_var_operations\homework_1\variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.main.js (1)">
+  <component name="RunManager" selected="Node.js.main.js (2)">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/may-2024-js/Lessons/lesson_4_function_part1/homework_4/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="main.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lessons/lesson_6_function_part3/homework_6/main.js" working-dir="$PROJECT_DIR$/Lessons/lesson_6_function_part3/homework_6">
+      <method v="2" />
+    </configuration>
+    <configuration name="main.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lessons/lesson_8_spred_prototyping_descriptors/homework_8/main.js" working-dir="$PROJECT_DIR$/Lessons/lesson_8_spred_prototyping_descriptors/homework_8">
       <method v="2" />
     </configuration>
     <configuration name="main.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="main.js" working-dir="$PROJECT_DIR$/Lessons/lesson_2_arrays_objects_if/homework_2/arrays_and_objects">
@@ -98,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.main.js (2)" />
         <item itemvalue="Node.js.main.js (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
@@ -134,7 +141,15 @@
       <workItem from="1723274035305" duration="759000" />
       <workItem from="1723295089247" duration="15413000" />
       <workItem from="1723465979852" duration="54778000" />
-      <workItem from="1724237311988" duration="13132000" />
+      <workItem from="1724237311988" duration="16311000" />
+      <workItem from="1724703491873" duration="88000" />
+      <workItem from="1724703613584" duration="39000" />
+      <workItem from="1724838083768" duration="16570000" />
+      <workItem from="1725191634188" duration="9378000" />
+      <workItem from="1725374704439" duration="6000" />
+      <workItem from="1725445590434" duration="66000" />
+      <workItem from="1725445662864" duration="2000" />
+      <workItem from="1725445753995" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <option name="closed" value="true" />
@@ -160,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724197587432</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="homework6-7">
+      <option name="closed" value="true" />
+      <created>1724674125053</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724674125053</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +204,11 @@
     <MESSAGE value="change" />
     <MESSAGE value="homework5" />
     <MESSAGE value="homework6" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework6" />
+    <MESSAGE value="homework6-7" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework6-7" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
