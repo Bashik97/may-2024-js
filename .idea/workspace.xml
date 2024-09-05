@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8200d00d-f31a-47f2-87ec-f9de016395cc" name="Changes" comment="homework6-7">
-      <change afterPath="$PROJECT_DIR$/Lessons/lesson_10_events/homework_10/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/lesson_10_events/homework_10/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/lesson_9-DOM/homework_9/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/lesson_9-DOM/homework_9/main.js" afterDir="false" />
+    <list default="true" id="8200d00d-f31a-47f2-87ec-f9de016395cc" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/lesson_1_var_operations/homework_1/concatenation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/lesson_1_var_operations/homework_1/concatenation/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/lesson_7_function_part4/homework_7/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/lesson_7_function_part4/homework_7/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/lesson_8_spred_prototyping_descriptors/homework_8/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/lesson_8_spred_prototyping_descriptors/homework_8/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,6 +143,10 @@
       <workItem from="1725445590434" duration="66000" />
       <workItem from="1725445662864" duration="2000" />
       <workItem from="1725445753995" duration="15000" />
+      <workItem from="1725445841265" duration="101000" />
+      <workItem from="1725445947009" duration="4000" />
+      <workItem from="1725562998227" duration="9000" />
+      <workItem from="1725563073887" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <option name="closed" value="true" />
@@ -183,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724674125053</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit">
+      <option name="closed" value="true" />
+      <created>1725445873517</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725445873517</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,7 +210,8 @@
     <MESSAGE value="homework5" />
     <MESSAGE value="homework6" />
     <MESSAGE value="homework6-7" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework6-7" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
